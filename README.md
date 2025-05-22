@@ -53,6 +53,8 @@ Month on Month %Sale = IF([_MoMSales] >= 0, FORMAT([_MoMSales], "#.0%") & " ↗"
 
 - Star Schema Design – optimized for performance and clarity
 
+- Cardinality: one-to-many relationship 
+
 ## Sample Insights
 
 - Men's footwear was the highest-selling product in Q1, with a revenue of around 5.8 million dollars 
