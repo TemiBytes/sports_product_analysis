@@ -23,6 +23,9 @@ This Power BI project delivers a visually engaging and analytically detailed sal
 
 **The dashboard used custom DAX measures to drive its dynamic visuals and KPIs**
 
+-- PM (Previous Month)
+-- MOM (Month on Month)
+
 -- Total Sales
 Total Sales = SUM('fct_Sport Products'[_Total Sales])
 
