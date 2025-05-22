@@ -53,10 +53,10 @@ Month on Month %Sale = IF([_MoMSales] >= 0, FORMAT([_MoMSales], "#.0%") & " ↗"
 
 - Star Schema Design – optimized for performance and clarity
 
-  ## Sample Insights
+## Sample Insights
 
-  - Men's footwear was the highest-selling product in Q1, with a revenue of around 5.8 million dollars 
-  - More people also purchased from outlet stores in Q1, while Online stores were the most patronized in Q4
-  - In December, Total sales increased by 26.5%, total profit increased by 27.4% from the previous month, and total units sold also increased by 9.9%,  which can be largely due to the holiday festivities.
+- Men's footwear was the highest-selling product in Q1, with a revenue of around 5.8 million dollars 
+- More people also purchased from outlet stores in Q1, while Online stores were the most patronized in Q4
+- In December, Total sales increased by 26.5%, total profit increased by 27.4% from the previous month, and total units sold also increased by 9.9%,  which can be largely due to the holiday festivities.
 - Products sold the most in Maine, United States of America, with a total revenue of $746,990 generated.
 
